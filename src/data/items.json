@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Clothes",
+      "price": 10.99,
+      "imgUrl": "/imgs/Image1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clothes",
+      "price": 1199,
+      "imgUrl": "/imgs/Image2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jewelery",
+      "price": 1.05,
+      "imgUrl": "/imgs/Image3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Electronic",
+      "price": 14000,
+      "imgUrl": "/imgs/Image4.jpg"
+    }
+  ]
